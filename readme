@@ -1,0 +1,10 @@
+Java application to test Spring.
+
+git clone git@github.com:spring-projects/spring-framework.git
+or
+download zip
+
+then run ./import-into-eclipse.sh
+./gradlew install
+./gradlew build
+
